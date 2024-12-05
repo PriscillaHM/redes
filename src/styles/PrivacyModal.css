@@ -27,4 +27,18 @@
     border: none;
     cursor: pointer;
   }
+
+  .cookies {
+    margin-top: 20px;
+  }
+  
+  .cookies input {
+    margin-right: 10px;
+  }
+  
+  .cookies label {
+    font-size: 14px;
+    color: #333;
+  }
+  
   
